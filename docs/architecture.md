@@ -403,6 +403,6 @@ The GUI can query anytime (msz, bct, mct, ppo, plv, pin) and receives push event
 ---
 
 **For more details, see component-specific documentation:**
-- [GUI Internals](../GUI/Docs/02-Architecture.md)
-- [AI Strategy](../AI/Docs/Zappy_AI.md)
-- [Protocol Reference](./API_REFERENCE.md)
+- [GUI Internals](gui.md)
+- [AI Strategy](ai.md)
+- [Protocol Reference](protocol.md)

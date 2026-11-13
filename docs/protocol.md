@@ -149,7 +149,7 @@ Create a new unhatched egg on your current tile.
 
 #### `Incantation`
 Attempt to level up. Requires:
-1. Specific resources held in inventory (see table in [Architecture](./ARCHITECTURE.md))
+1. Specific resources held in inventory (see [architecture.md](architecture.md))
 2. Other players (6+) at the same level on the same tile
 3. No other players at different levels on the same tile
 
@@ -270,7 +270,7 @@ The game has 7 types of resources:
 6. `phiras` — Mineral type 5
 7. `thystame` — Mineral type 6
 
-Each incantation requires specific quantities at each level (see [ARCHITECTURE.md](./ARCHITECTURE.md#level-up-resource-requirements)).
+Each incantation requires specific quantities at each level (see [ai.md](ai.md#37-level-up-resource-requirements)).
 
 ---
 
@@ -403,4 +403,4 @@ while connected:
 
 ---
 
-**Next step:** See [ARCHITECTURE.md](./ARCHITECTURE.md) for system design and [CONTRIBUTING.md](./CONTRIBUTING.md) for development guidelines.
+See [architecture.md](architecture.md) for the system design.
